@@ -31,7 +31,7 @@ This project includes two AI implementations (basic Minimax and Minimax with Alp
 ### Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<your-username>/gomoku-ai-tk.git
+   git clone https://github.com/zekooo69/Gomoku-AI.git
    cd gomoku-ai-tk
 2. Run the game:
 ```
