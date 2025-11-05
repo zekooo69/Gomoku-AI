@@ -69,6 +69,8 @@ For full code, see gomoku.py
 ---
 ## Project structure
 / (repo root)
-├─ gomoku.py  # main game + GUI
+├─ ffc033da-d405-4611-8916-43ee836c5784.py   # main game + GUI
 ├─ README.md
+├─ LICENSE (optional, e.g., MIT)
 └─ /examples (optional: saved positions / logs)
+
